@@ -1,0 +1,15 @@
+C:\Users\ameen\source\repos\week1\bin\Debug\net8.0\week1.exe
+C:\Users\ameen\source\repos\week1\bin\Debug\net8.0\week1.deps.json
+C:\Users\ameen\source\repos\week1\bin\Debug\net8.0\week1.runtimeconfig.json
+C:\Users\ameen\source\repos\week1\bin\Debug\net8.0\week1.dll
+C:\Users\ameen\source\repos\week1\bin\Debug\net8.0\week1.pdb
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.AssemblyInfoInputs.cache
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.AssemblyInfo.cs
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.csproj.CoreCompileInputs.cache
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.sourcelink.json
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.dll
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\refint\week1.dll
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.pdb
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\week1.genruntimeconfig.cache
+C:\Users\ameen\source\repos\week1\obj\Debug\net8.0\ref\week1.dll
