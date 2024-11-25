@@ -1,0 +1,14 @@
+C:\Users\ameen\source\repos\week1task\bin\Debug\net8.0\week1task.exe
+C:\Users\ameen\source\repos\week1task\bin\Debug\net8.0\week1task.deps.json
+C:\Users\ameen\source\repos\week1task\bin\Debug\net8.0\week1task.runtimeconfig.json
+C:\Users\ameen\source\repos\week1task\bin\Debug\net8.0\week1task.dll
+C:\Users\ameen\source\repos\week1task\bin\Debug\net8.0\week1task.pdb
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\week1task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\week1task.AssemblyInfoInputs.cache
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\week1task.AssemblyInfo.cs
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\week1task.csproj.CoreCompileInputs.cache
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\week1task.dll
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\refint\week1task.dll
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\week1task.pdb
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\week1task.genruntimeconfig.cache
+C:\Users\ameen\source\repos\week1task\obj\Debug\net8.0\ref\week1task.dll
