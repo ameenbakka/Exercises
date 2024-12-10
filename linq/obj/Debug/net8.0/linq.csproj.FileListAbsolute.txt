@@ -1,0 +1,14 @@
+C:\Users\ameen\source\repos\linq\bin\Debug\net8.0\linq.exe
+C:\Users\ameen\source\repos\linq\bin\Debug\net8.0\linq.deps.json
+C:\Users\ameen\source\repos\linq\bin\Debug\net8.0\linq.runtimeconfig.json
+C:\Users\ameen\source\repos\linq\bin\Debug\net8.0\linq.dll
+C:\Users\ameen\source\repos\linq\bin\Debug\net8.0\linq.pdb
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\linq.AssemblyInfoInputs.cache
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\linq.AssemblyInfo.cs
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\linq.dll
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\refint\linq.dll
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\linq.pdb
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\linq.genruntimeconfig.cache
+C:\Users\ameen\source\repos\linq\obj\Debug\net8.0\ref\linq.dll
