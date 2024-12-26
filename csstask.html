@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            height: 100vh;
+            background-color: #5B3A4D; /* Background color similar to the one in the image */
+        }
+
+        .box {
+            width: 100px;
+            height: 100px;
+            background-color: #F5C57A; /* Box color similar to the image */
+            margin: auto;
+        }
+
+        .top-left { grid-area: 1 / 1 / 2 / 2; }
+        .top-right { grid-area: 1 / 2 / 2 / 3; }
+        .bottom-left { grid-area: 2 / 1 / 3 / 2; }
+        .bottom-right { grid-area: 2 / 2 / 3 / 3; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="box top-left"></div>
+        <div class="box top-right"></div>
+        <div class="box bottom-left"></div>
+        <div class="box bottom-right"></div>
+    </div>
+
+</body>
+</html>
