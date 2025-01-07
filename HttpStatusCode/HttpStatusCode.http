@@ -1,0 +1,6 @@
+@HttpStatusCode_HostAddress = http://localhost:5095
+
+GET {{HttpStatusCode_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
