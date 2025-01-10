@@ -1,0 +1,6 @@
+@jwtauth_HostAddress = http://localhost:5293
+
+GET {{jwtauth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
