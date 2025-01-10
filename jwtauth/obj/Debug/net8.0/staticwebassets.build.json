@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YYyKdo/vIg7Cfg4HiqHulRlEfuZOs7pyCC7B0cdt/xk=",
+  "Source": "jwtauth",
+  "BasePath": "_content/jwtauth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
