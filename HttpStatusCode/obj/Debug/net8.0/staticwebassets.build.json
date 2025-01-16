@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "C5smlgdlmrAsV3qqZ4zNgeEAj7KJVA1VY/xHynI9Wcg=",
+  "Source": "HttpStatusCode",
+  "BasePath": "_content/HttpStatusCode",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
