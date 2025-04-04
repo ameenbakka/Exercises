@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+}
+/* .header-right{
+    position: absolute; */
+/* } */
+.logo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: -10px;
+}
