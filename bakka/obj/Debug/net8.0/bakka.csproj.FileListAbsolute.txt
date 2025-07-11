@@ -1,0 +1,14 @@
+C:\Users\ameen\source\repos\bakka\bin\Debug\net8.0\bakka.exe
+C:\Users\ameen\source\repos\bakka\bin\Debug\net8.0\bakka.deps.json
+C:\Users\ameen\source\repos\bakka\bin\Debug\net8.0\bakka.runtimeconfig.json
+C:\Users\ameen\source\repos\bakka\bin\Debug\net8.0\bakka.dll
+C:\Users\ameen\source\repos\bakka\bin\Debug\net8.0\bakka.pdb
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\bakka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\bakka.AssemblyInfoInputs.cache
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\bakka.AssemblyInfo.cs
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\bakka.csproj.CoreCompileInputs.cache
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\bakka.dll
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\refint\bakka.dll
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\bakka.pdb
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\bakka.genruntimeconfig.cache
+C:\Users\ameen\source\repos\bakka\obj\Debug\net8.0\ref\bakka.dll
