@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "ApiKey.Controllers.DataController",
+    "Method": "GetData",
+    "RelativePath": "api/Data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiKey.Controllers.DataController",
+    "Method": "PostData",
+    "RelativePath": "api/Data",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiKey.Controllers.DataController",
+    "Method": "DeleteData",
+    "RelativePath": "api/Data",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

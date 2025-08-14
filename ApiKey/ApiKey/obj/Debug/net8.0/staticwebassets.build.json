@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FMmIyTlgJi7boKqC43Y6nsx8TwUive1puvztLGvwGdw=",
+  "Source": "ApiKey",
+  "BasePath": "_content/ApiKey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
